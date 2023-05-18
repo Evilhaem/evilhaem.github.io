@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient(to left, #605e7e, #6b73c1, #268497);
+    font-family: Roboto, serif;
+    text-align: center;
+    padding: 0;
+    margin: 100px 3%;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    text-shadow: 3px 2px black;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 1px black;
+}
+
+#timer-container {
+    margin-top: 30px;
+}
+
+#timer-container input {
+    text-align: center;
+    width: 100px;
+    border-radius: 5px;
+    border-color: #333;
+    background-color: white;
+    font-size: 20px;
+}
+
+.start-button {
+    border-radius: 5px;
+    border-color: #333;
+    background-color: white;
+    font-size: 20px;
+}
+
+.start-button:hover {
+    background-color: #8f8acc;
+    color: white;
+}
+
+#countdown {
+    font-size: 50px;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+#soundtrack {
+    border-radius: 5px;
+    height: 34px;
+    width: 100px;
+}
+#cuckoo-image {
+    text-align: center;
+}
+
+#soundtrack-container {
+    margin-top: 30px;
+}
+  
