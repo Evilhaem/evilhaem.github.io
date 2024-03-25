@@ -1,1 +1,2 @@
-# cuckoo
+# ttest
+odoo yg bolno
