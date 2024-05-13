@@ -1,0 +1,34 @@
+{
+    "animeJsList" : [
+    {
+      "title": "Attack on Titan",
+      "type": "Action, Drama, Fantasy",
+      "released_date": "2013-04-07",
+      "image": "https://picsum.photos/id/1/200/300",
+      "episode_count": 75,
+      "publishing_company": "Wit Studio",
+      "start_date_time": "2013-04-07T22:00:00",
+      "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, monstrous creatures who devour humans seemingly without reason, join Eren Yeager and his friends in their quest to exterminate these terrifying beings and uncover the secrets behind their existence."
+    },
+    {
+      "title": "One Piece",
+      "type": "Action, Adventure, Comedy",
+      "released_date": "1999-10-20",
+      "image": "https://picsum.photos/id/1/200/300",
+      "episode_count": 1000,
+      "publishing_company": "Toei Animation",
+      "start_date_time": "1999-10-20T18:30:00",
+      "description": "Embark on a grand adventure with Monkey D. Luffy and his crew of Straw Hat Pirates as they sail the vast seas in search of the legendary One Piece treasure, encountering formidable foes, making new allies, and experiencing unforgettable adventures along the way."
+    },
+    {
+      "title": "Naruto",
+      "type": "Action, Adventure, Martial Arts",
+      "released_date": "2002-10-03",
+      "image": "https://picsum.photos/id/1/200/300",
+      "episode_count": 220,
+      "publishing_company": "Studio Pierrot",
+      "start_date_time": "2002-10-03T19:30:00",
+      "description": "Follow the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest ninja and leader of his village, as he trains hard, forms bonds with his friends, and faces formidable enemies in his quest to become the Hokage, the leader of the Hidden Leaf Village."
+    }
+]
+}
